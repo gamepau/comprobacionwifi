@@ -10,7 +10,7 @@ Vamos a utilizar los porgramas: **"Wifi Analyzer"** y **"Acrylic Wifi Home"**, a
 
 Una vez visto como utilizar cada programa, procederemos a realizar la siguiente actividad:
 
-[Actividad](https://gamepau.github.io/comprobacionwifi/Actividad1/)
+[Actividad](https://gamepau.github.io/comprobacionwifi/Actividad1/Práctica de comprobación)
 
 
 
