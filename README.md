@@ -1,3 +1,3 @@
 # Comprobar señal wifi
 
-[Inicio](Comprobar Señal Wifi.md)
+[Inicio](/Actividad1/Comprobar Señal Wifi.md)
