@@ -6,11 +6,11 @@ Vamos a utilizar los porgramas: **"Wifi Analyzer"** y **"Acrylic Wifi Home"**, a
 
 [Manual de Acrylic Wifi Home](https://serrogard.github.io/Se-al-WiFi/)
 
-[Manual de Wifi Analyzer](https://gamepau.github.io/comprobacionwifi/Actividad1/WifiAnalyzer/)
+[Manual de Wifi Analyzer](https://gamepau.github.io/comprobacionwifi/Actividad1/WifiAnalyzer)
 
 Una vez visto como utilizar cada programa, procederemos a realizar la siguiente actividad:
 
-[Actividad](https://gamepau.github.io/comprobacionwifi/Actividad1/Práctica de comprobación)
+[Actividad](https://gamepau.github.io/comprobacionwifi/Actividad1/SeñalWifi)
 
 
 
